@@ -1,7 +1,7 @@
 <div align="center">
   - 🌱 Estudando Ciência de Dados, Hacking e Pentest <br><br> 
 </div>
-<div>
+<div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/iHumberto.png" alt="TryHackMe">
 </div>
 <div align="center">
